@@ -74,29 +74,29 @@ let proeftoetsswitch = true;
 
 
 function preload(){
-  arethm[1] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/deel.png');
-  arethm[2] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Asset/smaal.png');
-  arethm[3] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/plus.png');
-  arethm[4] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/minus.png');
+  arethm[1] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/deel.png');
+  arethm[2] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/smaal.png');
+  arethm[3] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/plus.png');
+  arethm[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
   
-  imgstats = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/stats.png');
-  imgolym = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/olym.png');
+  imgstats = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/stats.png');
+  imgolym = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/olym.png');
 
-  logo = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/logo.jpeg');
+  logo = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/logo.jpeg');
 
-  questions[0] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag1.png');
-  questions[1] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag2.png');
-  questions[2] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag3.png');
-  questions[3] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag4.png');
-  questions[4] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag5.png');
-  questions[5] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag6.png');
-  questions[6] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag7.png');
-  questions[7] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag8.png');
-  questions[8] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag9.png');
-  questions[9] = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/vraag10.png');
-  arrregs = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/arrregs.png');
-  arrlinks = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/arrlinks.png');
-  infobackground = loadImage('https://github.com/ARNOLDUSdip/math4freedemo/tree/main/Assets/infobackground.png');
+  questions[0] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag1.png');
+  questions[1] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag2.png');
+  questions[2] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag3.png');
+  questions[3] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag4.png');
+  questions[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag5.png');
+  questions[5] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag6.png');
+  questions[6] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag7.png');
+  questions[7] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag8.png');
+  questions[8] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag9.png');
+  questions[9] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/vraag10.png');
+  arrregs = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/arrregs.png');
+  arrlinks = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/arrlinks.png');
+  infobackground = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/infobackground.png');
 
 }
 
