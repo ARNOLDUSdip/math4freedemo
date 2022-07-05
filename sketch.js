@@ -76,28 +76,28 @@ let proeftoetsswitch = true;
 function preload(){
    alert('Preload  begin');
    arethm[1] = loadImage('Assets/deel.png');
- // arethm[2] = loadImage('Assets/maal.png');
- // arethm[3] = loadImage('Assets/plus.png');
- // arethm[4] = loadImage('Assets/minus.png');
+   arethm[2] = loadImage('Assets/maal.png');
+   arethm[3] = loadImage('Assets/plus.png');
+   arethm[4] = loadImage('Assets/minus.png');
   
- // imgstats = loadImage('Assets/stats.png');
- // imgolym = loadImage('Assets/olym.png');
+  imgstats = loadImage('Assets/stats.png');
+  imgolym = loadImage('Assets/olym.png');
 
- // logo = loadImage('Assets/logo.jpeg');
+  logo = loadImage('Assets/logo.jpeg');
 
-//  questions[0] = loadImage('Assets/vraag1.png');
-//  questions[1] = loadImage('Assets/vraag2.png');
-//  questions[2] = loadImage('Assets/vraag3.png');
-//  questions[3] = loadImage('Assets/vraag4.png');
-//  questions[4] = loadImage('Assets/vraag5.png');
- // questions[5] = loadImage('Assets/vraag6.png');
- // questions[6] = loadImage('Assets/vraag7.png');
- // questions[7] = loadImage('Assets/vraag8.png');
- // questions[8] = loadImage('Assets/vraag9.png');
- // questions[9] = loadImage('Assets/vraag10.png');
-//  arrregs = loadImage('Assets/arrregs.png');
- // arrlinks = loadImage('Assets/arrlinks.png');
- // infobackground = loadImage('assets/infobackground.png');
+  questions[0] = loadImage('Assets/vraag1.png');
+  questions[1] = loadImage('Assets/vraag2.png');
+  questions[2] = loadImage('Assets/vraag3.png');
+  questions[3] = loadImage('Assets/vraag4.png');
+  questions[4] = loadImage('Assets/vraag5.png');
+  questions[5] = loadImage('Assets/vraag6.png');
+  questions[6] = loadImage('Assets/vraag7.png');
+  questions[7] = loadImage('Assets/vraag8.png');
+  questions[8] = loadImage('Assets/vraag9.png');
+  questions[9] = loadImage('Assets/vraag10.png');
+  arrregs = loadImage('Assets/arrregs.png');
+  arrlinks = loadImage('Assets/arrlinks.png');
+  infobackground = loadImage('assets/infobackground.png');
 alert('Preload  eindig');
 }
 
