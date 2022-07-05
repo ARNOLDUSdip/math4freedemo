@@ -78,7 +78,7 @@ function preload(){
    arethm[1] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/deel.png');
    arethm[2] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
    arethm[3] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/plus.png');
-   arethm[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
+   arethm[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/maal.png');
   
   imgstats = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/stats.png');
   imgolym = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/olym.png');
