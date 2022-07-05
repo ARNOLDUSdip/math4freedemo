@@ -75,11 +75,11 @@ let proeftoetsswitch = true;
 
 function preload(){
   
-   arethm[1] = loadImage('Assets/deel.png');
-   arethm[2] = loadImage('Assets/maal.png');
-   arethm[3] = loadImage('Assets/plus.png');
-   arethm[4] = loadImage('Assets/minus.png');
-  
+   arethm[1] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/deel.png');
+   arethm[2] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
+   arethm[3] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/plus.png');
+   arethm[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
+  /*
   imgstats = loadImage('Assets/stats.png');
   imgolym = loadImage('Assets/olym.png');
 
@@ -98,6 +98,7 @@ function preload(){
   arrregs = loadImage('Assets/arrregs.png');
   arrlinks = loadImage('Assets/arrlinks.png');
   infobackground = loadImage('assets/infobackground.png');
+  */
 
 }
 
