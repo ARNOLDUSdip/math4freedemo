@@ -74,7 +74,7 @@ let proeftoetsswitch = true;
 
 
 function preload(){
-   alert('Preload  begin');
+  
    arethm[1] = loadImage('Assets/deel.png');
    arethm[2] = loadImage('Assets/maal.png');
    arethm[3] = loadImage('Assets/plus.png');
