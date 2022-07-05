@@ -74,6 +74,7 @@ let proeftoetsswitch = true;
 
 
 function preload(){
+   alert('Preload  begin');
   arethm[1] = loadImage('Assets/deel.png');
   arethm[2] = loadImage('Assets/maal.png');
   arethm[3] = loadImage('Assets/plus.png');
@@ -97,11 +98,12 @@ function preload(){
   arrregs = loadImage('Assets/arrregs.png');
   arrlinks = loadImage('Assets/arrlinks.png');
   infobackground = loadImage('assets/infobackground.png');
-
+alert('Preload  eindig');
 }
 
 
 function setup() { 
+  alert('Setup  begin');
   createCanvas(windowWidth, windowHeight);
   noStroke();
 
@@ -134,7 +136,7 @@ function setup() {
 
 
   
-
+alert('Setup einding');
 
 } 
 
