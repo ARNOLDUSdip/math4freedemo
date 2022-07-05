@@ -72,7 +72,7 @@ let proeftoetscurrent, proeftoetsscore;
 let proeftoetsswitch = true;
 
 
-
+/*
 function preload(){
   
    arethm[1] = loadImage('Assets/deel.png');
@@ -101,6 +101,7 @@ function preload(){
 alert('Preload  eindig');
 }
 
+*/
 
 function setup() { 
   alert('Setup  begin');
