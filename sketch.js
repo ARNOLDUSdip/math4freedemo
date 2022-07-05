@@ -79,12 +79,12 @@ function preload(){
    arethm[2] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
    arethm[3] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/plus.png');
    arethm[4] = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/minus.png');
-  /*
-  imgstats = loadImage('Assets/stats.png');
-  imgolym = loadImage('Assets/olym.png');
+  
+  imgstats = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/stats.png');
+  imgolym = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/olym.png');
 
-  logo = loadImage('Assets/logo.jpeg');
-
+  logo = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/logo.jpeg');
+ /*
   questions[0] = loadImage('Assets/vraag1.png');
   questions[1] = loadImage('Assets/vraag2.png');
   questions[2] = loadImage('Assets/vraag3.png');
@@ -97,8 +97,9 @@ function preload(){
   questions[9] = loadImage('Assets/vraag10.png');
   arrregs = loadImage('Assets/arrregs.png');
   arrlinks = loadImage('Assets/arrlinks.png');
-  infobackground = loadImage('assets/infobackground.png');
   */
+  infobackground = loadImage('https://raw.githubusercontent.com/ARNOLDUSdip/math4freedemo/main/Assets/infobackground.png');
+  
 
 }
 
